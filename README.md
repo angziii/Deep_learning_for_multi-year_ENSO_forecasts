@@ -6,6 +6,8 @@
 
 由Google Gemini制作的**论文播客**下载：[AI vs. El Niño: Can Deep Learning Conquer the Climate's Toughest Puzzle?](https://github.com/angziii/Deep_learning_for_multi-year_ENSO_forecasts/blob/main/AI%20vs.%20El%20Nin%CC%83o%20%20Can%20Deep%20Learning%20Conquer%20the%20Climate's%20Toughest%20Puzzle.wav)
 
+论文翻译：[ENSO-translation-cn](https://github.com/angziii/Deep_learning_for_multi-year_ENSO_forecasts/blob/main/ENSO-translation-cn.md)
+
 ## 什么是ENSO？
 
 El Niño-Southern Oscillation，埃尔尼诺-南方涛动。热带太平洋与大气之间的耦合系统，有三个状态，分别是El Niño和La Niña和它们的中间状态（中性）。热带太平洋处于 **La Niña->中性->El Niño->...** 的交替状态，每二至七年为一个周期。
