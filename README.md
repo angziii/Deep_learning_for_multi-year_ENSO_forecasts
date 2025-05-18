@@ -1,10 +1,10 @@
 # Deep learning for multi-year ENSO forecasts
 
-感谢**刘志强老师**的推荐与指导
+感谢***刘志强老师***的推荐与指导
 
-我阅读的**第三篇**论文
+我阅读的***第三篇***论文
 
-由Google Gemini制作的论文播客下载：[AI vs. El Niño: Can Deep Learning Conquer the Climate's Toughest Puzzle?](https://github.com/angziii/Deep_learning_for_multi-year_ENSO_forecasts/blob/main/AI%20vs.%20El%20Nin%CC%83o%20%20Can%20Deep%20Learning%20Conquer%20the%20Climate's%20Toughest%20Puzzle.wav)
+由Google Gemini制作的**论文播客**下载：[AI vs. El Niño: Can Deep Learning Conquer the Climate's Toughest Puzzle?](https://github.com/angziii/Deep_learning_for_multi-year_ENSO_forecasts/blob/main/AI%20vs.%20El%20Nin%CC%83o%20%20Can%20Deep%20Learning%20Conquer%20the%20Climate's%20Toughest%20Puzzle.wav)
 
 ## 什么是ENSO？
 
