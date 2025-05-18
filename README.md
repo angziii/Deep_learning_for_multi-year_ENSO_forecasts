@@ -57,7 +57,7 @@ HC异常往往**领先于**东太平洋显著的SST异常，可以看作是海�
 
 论文中也构造了另一个CNN模型，用于输出 EP、CP 和 Mix 型的概率，最终通过 softmax 归一化（我猜的）。
 
-[***论文中用于ENSO预测的CNN网络详细讲解***]()
+[***论文中用于ENSO预测的CNN网络详细讲解***](https://github.com/angziii/Deep_learning_for_multi-year_ENSO_forecasts/blob/main/CNN.md)
 
 ### 为什么用CNN？
 
