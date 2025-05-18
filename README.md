@@ -1,6 +1,6 @@
 # Deep learning for multi-year ENSO forecasts
 
-我阅读的**第三篇**论文，感谢**刘志强老师**的悉心指导
+我阅读的**第三篇**论文，感谢**刘志强老师**的推荐与指导
 
 ## 什么是ENSO？
 
